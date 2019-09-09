@@ -16,7 +16,6 @@ end
 def any_phrase(phrase="Do A Barrel Roll!")
 end
 
-any_phrase("Do A Barrel Roll!")
 
 
 
