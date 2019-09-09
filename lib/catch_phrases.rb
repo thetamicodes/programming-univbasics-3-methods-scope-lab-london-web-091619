@@ -13,7 +13,7 @@ def link
   puts phrase
 end
 
-
+any_phrase ()
 
 
 
